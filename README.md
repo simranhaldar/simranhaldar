@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Simran Haldar 👋
 
-<!--
-**simranhaldar/simranhaldar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst
 
-Here are some ideas to get you started:
+🐍 Python | SQL | Power BI | Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Customer Analytics | Product Analytics | Business Intelligence
+
+🚀 Transforming data into actionable insights
+
+---
+
+## 👨‍💻 About Me
+
+Data Analyst with 2.5 years of Automation Engineering experience and a strong foundation in SQL, Python, Power BI, and Tableau.
+
+I enjoy solving business problems through data analysis, visualization, dashboard development, and storytelling.
+
+Currently building real-world analytics projects focused on customer behavior, sales performance, and business intelligence.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+- Python
+- SQL
+
+### Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### BI & Visualization
+- Power BI
+- Tableau
+- DAX
+
+### Databases
+- MySQL
+- SQL Server
+
+### Tools
+- Git
+- Excel
+- Power Query
+
+---
+
+## 📂 Featured Projects
+
+Coming Soon 🚀
+
+---
+
+## 🎓 Certifications
+
+- Data Analytics Certification – Nikhil Analytics
+- Advanced Embedded Systems – Vector India
+- ISTQB (Pursuing)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: simranmulla1797@gmail.com
+- 💼 LinkedIn: (Add Your LinkedIn URL)
