@@ -64,4 +64,4 @@ Coming Soon 🚀
 ## 📫 Connect With Me
 
 - 📧 Email: simranmulla1797@gmail.com
-- 💼 LinkedIn: (Add Your LinkedIn URL)
+- 💼 LinkedIn: www.linkedin.com/in/simran-mulla-a56897242
