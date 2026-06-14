@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Data Analyst with 2.5 years of Automation Engineering experience and a strong foundation in SQL, Python, Power BI, and Tableau.
+Data Analyst with 2.5 years of Automation Engineering experience and a strong foundation in SQL, Python, Excel, Power BI, and Tableau.
 
 I enjoy solving business problems through data analysis, visualization, dashboard development, and storytelling.
 
@@ -58,7 +58,6 @@ Coming Soon 🚀
 
 - Data Analytics Certification – Nikhil Analytics
 - Advanced Embedded Systems – Vector India
-- ISTQB (Pursuing)
 
 ---
 
