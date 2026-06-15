@@ -2,7 +2,7 @@
 
 📊 Data Analyst
 
-🐍 Python | SQL | Power BI | Tableau
+🐍 Python | SQL | Excel | Power BI | Tableau
 
 📈 Customer Analytics | Product Analytics | Business Intelligence
 
