@@ -60,8 +60,14 @@ Currently building real-world analytics projects focused on customer behavior, s
 ---
 
 ## 📂 Featured Projects
+###Project Name : 
+- Retail Data Analytics – Final Analysis Summary & Recommendations
+###Project Link :
+- https://github.com/simranhaldar/retail-sales-analysis
 
-Coming Soon 🚀
+
+
+
 
 ---
 
